@@ -1,0 +1,55 @@
+# create.txt
+
+Task: Create requirements.txt
+
+Description
+
+The objective of this task was to prepare the requirements.txt file for the AI-based Smart Engagement Monitoring System. This file contains all the software dependencies required to successfully build, execute, and maintain the application.
+
+The project integrates multiple Artificial Intelligence and Full Stack technologies, including computer vision, audio signal processing, backend API development, data analytics, and report generation. Therefore, selecting appropriate libraries was essential to ensure system stability, scalability, and reproducibility.
+
+Approach
+
+The implementation began by analyzing the functional requirements of the project and identifying the software components needed for each module.
+
+A modular approach was adopted to categorize dependencies according to their responsibilities within the system. Stable, open-source, and well-documented libraries were selected to ensure compatibility and maintainability.
+
+Process
+
+1. Analyzed project requirements.
+2. Identified dependencies for computer vision, audio processing, backend APIs, and data processing.
+3. Verified compatibility with the target Python version.
+4. Documented all dependencies in requirements.txt.
+5. Removed redundant or conflicting packages.
+6. Validated the dependency configuration.
+
+Technical Details
+
+Computer Vision Libraries
+- OpenCV
+- MediaPipe
+- NumPy
+
+Audio Processing Libraries
+- Librosa
+- PyAudio
+- SoundDevice
+
+Backend and API Libraries
+- Flask
+- Flask-CORS
+- Werkzeug
+
+Data Processing Libraries
+- Pandas
+- Matplotlib
+- OpenPyXL
+- ReportLab
+
+Machine Learning Utilities
+- Scikit-learn
+- Joblib
+
+Outcome
+
+The requirements.txt file enables automated installation of all required packages, improves portability, ensures reproducibility, and simplifies project deployment for the SmartBridge Skill Wallet Capstone Project.
