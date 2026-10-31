@@ -1,1 +1,3 @@
+This milestone focuses on the development of the Vision Module, the primary visual perception component of the Multimodal Attendance & Engagement Agent. The module is responsible for processing video streams to detect and track participants, estimate sustained presence for automated attendance, and extract visual features that support engagement analysis.
 
+The implementation is designed to operate reliably under real-world classroom conditions, including participant movement, partial occlusions, varying camera angles, and changing lighting conditions. The generated visual insights form the foundation for multimodal reasoning by providing accurate and robust data to downstream modules, enabling reliable attendance verification and engagement estimation.
